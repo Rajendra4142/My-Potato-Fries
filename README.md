@@ -1,4 +1,4 @@
-# PotatoFry Website 🍟
+# PotatoFry  shop Website 🍟
 
 A crispy and fun website showcasing delicious potato recipes with an easy-to-navigate design.
 
